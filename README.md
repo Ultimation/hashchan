@@ -1,4 +1,4 @@
 hashchan
 ========
 
-This Git will soon be private.
+Nothing to see here... yet! 
