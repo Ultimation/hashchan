@@ -1,7 +1,7 @@
 Before you continue
 =======
 Please make yourself familiar with Git. If you want to mess around while you learn, do so on your own repository. <br>
-Here is a good guide for learning Git: https://we.riseup.net/debian/git-development-howto
+Here is a good guide for learning Git: https://we.riseup.net/debian/git-development-howto <br>
 Questions may be asked here: http://www.reddit.com/r/git/ <br>
 
 Contributing to this project
